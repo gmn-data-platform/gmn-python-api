@@ -53,7 +53,7 @@ pyupgrade = "^2.29.1"
 furo = ">=2021.11.12"
 sphinx-autoapi = "^1.8.4"
 kaleido = "0.2.1"
-dtale = "^1.61.1"
+dtale = "^2.6.0"
 
 [tool.poetry.scripts]
 gmn-python-api = "gmn_python_api.__main__:main"
